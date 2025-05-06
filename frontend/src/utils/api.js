@@ -139,6 +139,6 @@ class Api {
   }
   }
   // Замените на адрес вашего бэкенда
-  const api = new Api("https://api.bormxxx.nomorepartiessbs.ru/");
+  const api = new Api("https://api.bormxxx.nomorepartiessbs.ru");
 
   export default api;
